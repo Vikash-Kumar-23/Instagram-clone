@@ -35,8 +35,14 @@ A full-stack Instagram clone built with Node.js, Express, MongoDB, and EJS templ
 - `utils/`: Utility functions
 
 ## Screenshots
-![Screenshot 1](appScreenshot/Screenshot (7737).png)
-![Screenshot 2](appScreenshot/Screenshot (7738).png)
-![Screenshot 3](appScreenshot/Screenshot (7739).png)
-![Screenshot 4](appScreenshot/Screenshot (7740).png)
-![Screenshot 5](appScreenshot/Screenshot (7741).png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4114980-7ab9-4d24-8af4-aa5b35ce8995" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d076ff09-bbe7-49b6-9f2b-16a034bed34f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5527f17e-892d-48c2-8821-634fc634845b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6739e5b0-43e7-4f32-a391-300521d24196" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ea9d445-089a-4862-a8f9-19e6d1de5d6d" />
+
+
+
+
+
+
